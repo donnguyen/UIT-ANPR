@@ -3,6 +3,10 @@ UIT-ANPR
 
 Welcome to the Open Automatic Number Plate Recognition on Smartphones (former UIT-ANPR)
 
+We have renovated our project to Android Studio at this repository: https://github.com/anhtuan98/uitanpr2 
+
+In this version, we do recognition for international plates. European contries has the most positive result because we got many sample contributions from European countries. 
+
 Automatic Numberplate Recognition is an emerging research field which attracts many researchers. At University of Information Technology, Hochiminh City, Vietnam, we have invested a project that aims to build an automatic numberplate recognition program on Android. The project has been done at the first phase: a program that can recognize Vietnamese Motobike Number Plates. However, the techniques is the same for any number plate.
 
 You can download it at Google App store with these keywords: uit anpr or uanpr.
